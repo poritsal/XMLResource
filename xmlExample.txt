@@ -1,0 +1,18 @@
+<data>
+    42
+    <section1>
+        15
+        <subsection1>
+            7
+            <subsubsection1>
+                3
+            </subsubsection1>
+        </subsection1>
+    </section1>
+    <section2>
+        99
+        <subsection2>
+            123
+        </subsection2>
+    </section2>
+</data>
